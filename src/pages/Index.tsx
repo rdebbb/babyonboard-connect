@@ -14,7 +14,7 @@ const Index = () => {
   const featuredProducts = [
     {
       id: "1",
-      name: "Body Manga Longa Unicórnio",
+      name: "Macacão Bear Manga Longa",
       brand: "Baby Dreams",
       price: 45.90,
       promoPrice: 36.90,
@@ -23,7 +23,7 @@ const Index = () => {
     },
     {
       id: "2",
-      name: "Macacão Dino Adventure",
+      name: "Corta Vento Adventure",
       brand: "Little Explorer", 
       price: 65.00,
       image: "https://images.unsplash.com/photo-1596870230751-ebdfce98ec42?w=400&h=400&fit=crop",
@@ -31,7 +31,7 @@ const Index = () => {
     },
     {
       id: "3",
-      name: "Vestido Estampado Flores",
+      name: "Bermuda Star Barra",
       brand: "Sweet Baby",
       price: 85.00,
       image: "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=400&h=400&fit=crop",
@@ -181,7 +181,7 @@ const Index = () => {
                     onClick={() => setShowContactModal(true)}
                   >
                     <MessageCircle className="h-4 w-4 mr-2" />
-                    Chamar no WhatsApp
+                    Adicionar ao carrinho
                   </Button>
                 </CardContent>
               </Card>
