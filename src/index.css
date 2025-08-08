@@ -8,40 +8,40 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 350 100% 98%;
-    --foreground: 330 40% 15%;
+    --background: 50 20% 98%;
+    --foreground: 45 15% 20%;
 
     --card: 0 0% 100%;
-    --card-foreground: 330 40% 15%;
+    --card-foreground: 45 15% 20%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 330 40% 15%;
+    --popover-foreground: 45 15% 20%;
 
-    --primary: 340 85% 65%;
+    --primary: 150 30% 50%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 320 60% 90%;
-    --secondary-foreground: 330 40% 15%;
+    --secondary: 45 25% 88%;
+    --secondary-foreground: 45 15% 20%;
 
-    --muted: 320 40% 95%;
-    --muted-foreground: 330 25% 55%;
+    --muted: 50 15% 92%;
+    --muted-foreground: 45 10% 55%;
 
-    --accent: 300 50% 85%;
-    --accent-foreground: 330 40% 15%;
+    --accent: 200 25% 85%;
+    --accent-foreground: 45 15% 20%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 320 30% 90%;
-    --input: 320 30% 90%;
-    --ring: 340 85% 65%;
+    --border: 45 15% 87%;
+    --input: 45 15% 87%;
+    --ring: 150 30% 50%;
 
-    /* Baby theme colors */
-    --baby-pink: 340 85% 90%;
-    --baby-blue: 200 85% 90%;
-    --baby-purple: 280 50% 85%;
-    --soft-mint: 150 40% 85%;
-    --warm-cream: 45 30% 95%;
+    /* Unisex baby theme colors */
+    --soft-sage: 150 25% 85%;
+    --warm-beige: 45 25% 90%;
+    --gentle-blue: 200 30% 85%;
+    --soft-mint: 160 20% 88%;
+    --warm-cream: 50 20% 95%;
 
     --radius: 0.5rem;
 
