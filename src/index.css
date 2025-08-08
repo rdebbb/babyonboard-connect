@@ -8,40 +8,40 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 50 30% 98%;
-    --foreground: 45 20% 25%;
+    --background: 55 40% 97%;
+    --foreground: 40 25% 30%;
 
     --card: 0 0% 100%;
-    --card-foreground: 45 20% 25%;
+    --card-foreground: 40 25% 30%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 45 20% 25%;
+    --popover-foreground: 40 25% 30%;
 
-    --primary: 48 85% 70%;
-    --primary-foreground: 45 20% 25%;
+    --primary: 50 60% 82%;
+    --primary-foreground: 40 25% 30%;
 
-    --secondary: 50 40% 90%;
-    --secondary-foreground: 45 20% 25%;
+    --secondary: 55 35% 92%;
+    --secondary-foreground: 40 25% 30%;
 
-    --muted: 50 25% 95%;
-    --muted-foreground: 45 15% 55%;
+    --muted: 55 25% 96%;
+    --muted-foreground: 40 20% 60%;
 
-    --accent: 55 50% 85%;
-    --accent-foreground: 45 20% 25%;
+    --accent: 52 45% 88%;
+    --accent-foreground: 40 25% 30%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
-    --border: 50 20% 88%;
-    --input: 50 20% 88%;
-    --ring: 48 85% 70%;
+    --border: 55 20% 90%;
+    --input: 55 20% 90%;
+    --ring: 50 60% 82%;
 
-    /* Light yellow unisex baby theme colors */
-    --soft-yellow: 50 60% 92%;
-    --warm-butter: 48 50% 88%;
-    --gentle-cream: 45 40% 95%;
-    --sunshine-light: 52 70% 85%;
-    --vanilla-soft: 50 30% 90%;
+    /* Pastel baby yellow theme colors */
+    --baby-yellow: 52 50% 90%;
+    --butter-cream: 48 40% 94%;
+    --soft-vanilla: 50 30% 96%;
+    --gentle-sunshine: 54 45% 88%;
+    --warm-ivory: 55 25% 95%;
 
     --radius: 0.5rem;
 
